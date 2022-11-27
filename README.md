@@ -1,7 +1,8 @@
 # JAVA
 SORTING 
+
+<img align='left' src='/Bubble-sort-1.png' width="20%">
 >BUBBLE SORT
-<img align='center' src='/Bubble-sort-1' width="50%">
 
 Bubble sort is a sorting algorithm that compares two adjacent elements and swaps them until they are in the intended order.
 
